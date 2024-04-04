@@ -1,0 +1,101 @@
+respondent_id,voted,gender,highest_education,Income_group,age_group
+1,Republican,Female,Post-grad,"$10,000 - $19,999",51-60
+2,Republican,Female,High school graduate,"$60,000 - $69,999",Above 60
+3,Democrat,Female,No HS,"$80,000 - $99,999",29-39
+4,Republican,Female,High school graduate,"$200,000 - $249,999",Above 60
+5,Republican,Male,No HS,"$30,000 - $39,999",29-39
+6,Republican,Male,2-year,"$100,000 - $119,999",Above 60
+7,Democrat,Male,High school graduate,"Less than $10,000",Above 60
+8,Republican,Male,Some college,"$70,000 - $79,999",Above 60
+9,Democrat,Female,Post-grad,"$70,000 - $79,999",18-28
+10,Republican,Male,High school graduate,"$150,000 - $199,999",18-28
+11,Democrat,Male,No HS,"$100,000 - $119,999",51-60
+12,Democrat,Male,High school graduate,"$70,000 - $79,999",40-50
+13,Republican,Female,No HS,"$150,000 - $199,999",29-39
+14,Republican,Female,4-year,"$200,000 - $249,999",29-39
+15,Democrat,Male,No HS,"$40,000 - $59,999",40-50
+16,Democrat,Female,4-year,"$40,000 - $59,999",18-28
+17,Republican,Male,Post-grad,"$40,000 - $59,999",18-28
+18,Republican,Male,Some college,"$120,000 - $149,999",40-50
+19,Republican,Female,2-year,"$60,000 - $69,999",40-50
+20,Democrat,Male,High school graduate,"$60,000 - $69,999",51-60
+21,Democrat,Female,Post-grad,"$80,000 - $99,999",29-39
+22,Democrat,Female,High school graduate,"$10,000 - $19,999",29-39
+23,Democrat,Female,High school graduate,"$20,000 - $29,999",Above 60
+24,Democrat,Male,2-year,"$70,000 - $79,999",29-39
+25,Republican,Female,2-year,"$10,000 - $19,999",51-60
+26,Republican,Female,High school graduate,"$70,000 - $79,999",29-39
+27,Democrat,Male,4-year,"$70,000 - $79,999",Above 60
+28,Democrat,Male,High school graduate,"$100,000 - $119,999",29-39
+29,Democrat,Male,Post-grad,"$80,000 - $99,999",51-60
+30,Republican,Female,Post-grad,"$100,000 - $119,999",51-60
+31,Republican,Female,No HS,"$80,000 - $99,999",29-39
+32,Democrat,Male,4-year,"$150,000 - $199,999",18-28
+33,Republican,Male,2-year,"$200,000 - $249,999",40-50
+34,Democrat,Female,Some college,"$200,000 - $249,999",29-39
+35,Democrat,Male,4-year,"$150,000 - $199,999",Above 60
+36,Democrat,Female,Post-grad,"$70,000 - $79,999",40-50
+37,Republican,Female,2-year,"$30,000 - $39,999",Above 60
+38,Democrat,Female,Post-grad,"$70,000 - $79,999",51-60
+39,Democrat,Female,4-year,"$150,000 - $199,999",Above 60
+40,Republican,Male,2-year,"$80,000 - $99,999",18-28
+41,Republican,Male,Post-grad,"$10,000 - $19,999",51-60
+42,Democrat,Female,No HS,"Less than $10,000",51-60
+43,Democrat,Female,4-year,"$70,000 - $79,999",Above 60
+44,Democrat,Male,2-year,"$120,000 - $149,999",40-50
+45,Democrat,Female,Some college,"$30,000 - $39,999",Above 60
+46,Republican,Male,Some college,"Less than $10,000",51-60
+47,Democrat,Male,Some college,"$80,000 - $99,999",40-50
+48,Democrat,Female,2-year,"$20,000 - $29,999",29-39
+49,Republican,Female,2-year,"$20,000 - $29,999",51-60
+50,Republican,Female,High school graduate,"$70,000 - $79,999",29-39
+51,Republican,Female,Post-grad,"Less than $10,000",29-39
+52,Republican,Male,High school graduate,"$100,000 - $119,999",51-60
+53,Republican,Female,2-year,"$40,000 - $59,999",40-50
+54,Republican,Female,4-year,"$10,000 - $19,999",18-28
+55,Democrat,Male,No HS,"$60,000 - $69,999",29-39
+56,Republican,Male,4-year,"$70,000 - $79,999",18-28
+57,Republican,Male,2-year,"$80,000 - $99,999",18-28
+58,Republican,Male,High school graduate,"$200,000 - $249,999",29-39
+59,Democrat,Female,4-year,"Less than $10,000",40-50
+60,Republican,Male,2-year,"$10,000 - $19,999",29-39
+61,Republican,Male,2-year,"$10,000 - $19,999",40-50
+62,Democrat,Male,Some college,"$40,000 - $59,999",51-60
+63,Democrat,Female,Post-grad,"$80,000 - $99,999",40-50
+64,Democrat,Female,2-year,"$80,000 - $99,999",18-28
+65,Republican,Female,2-year,"$20,000 - $29,999",Above 60
+66,Republican,Female,2-year,"Less than $10,000",Above 60
+67,Republican,Female,High school graduate,"$30,000 - $39,999",18-28
+68,Republican,Male,No HS,"$100,000 - $119,999",18-28
+69,Republican,Male,2-year,"$10,000 - $19,999",51-60
+70,Democrat,Male,High school graduate,"$80,000 - $99,999",40-50
+71,Republican,Female,Post-grad,"$40,000 - $59,999",18-28
+72,Republican,Female,Some college,"$20,000 - $29,999",18-28
+73,Democrat,Male,Some college,"$40,000 - $59,999",Above 60
+74,Democrat,Male,4-year,"$20,000 - $29,999",29-39
+75,Democrat,Male,Some college,"$120,000 - $149,999",40-50
+76,Democrat,Female,Post-grad,"$10,000 - $19,999",18-28
+77,Democrat,Male,High school graduate,"$70,000 - $79,999",51-60
+78,Democrat,Male,Post-grad,"$70,000 - $79,999",18-28
+79,Democrat,Female,High school graduate,"Less than $10,000",Above 60
+80,Republican,Male,Post-grad,"$40,000 - $59,999",Above 60
+81,Republican,Female,Some college,"$20,000 - $29,999",18-28
+82,Democrat,Male,Some college,"$10,000 - $19,999",Above 60
+83,Democrat,Male,2-year,"$100,000 - $119,999",29-39
+84,Democrat,Male,High school graduate,"$120,000 - $149,999",51-60
+85,Republican,Female,2-year,"$40,000 - $59,999",40-50
+86,Democrat,Female,2-year,"Less than $10,000",Above 60
+87,Democrat,Female,No HS,"$150,000 - $199,999",29-39
+88,Republican,Female,Some college,"$10,000 - $19,999",Above 60
+89,Republican,Female,No HS,"$40,000 - $59,999",29-39
+90,Democrat,Male,Some college,"$80,000 - $99,999",Above 60
+91,Democrat,Male,High school graduate,"$40,000 - $59,999",Above 60
+92,Republican,Female,2-year,"$40,000 - $59,999",29-39
+93,Republican,Female,No HS,"$30,000 - $39,999",29-39
+94,Republican,Male,Post-grad,"Less than $10,000",29-39
+95,Democrat,Male,Some college,"$30,000 - $39,999",29-39
+96,Republican,Female,Some college,"$200,000 - $249,999",29-39
+97,Democrat,Female,No HS,"Less than $10,000",40-50
+98,Republican,Male,High school graduate,"$60,000 - $69,999",18-28
+99,Republican,Female,No HS,"$80,000 - $99,999",29-39
+100,Democrat,Male,High school graduate,"$100,000 - $119,999",Above 60
